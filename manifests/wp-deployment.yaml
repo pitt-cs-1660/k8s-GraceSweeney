@@ -11,7 +11,7 @@ spec:
     - port: 80
   ##
   # Create service selector labels here
-   selector:
+  selector:
     app: wordpress
     tier: frontend
   ##
